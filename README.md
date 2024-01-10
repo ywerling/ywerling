@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ywerling
 - 👀 I’m interested in Python, Product Management, Scrum, Kanban
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on git
+- 💞️ I’m looking to collaborate on various projects to build my portfolio
+- 📫 How to reach me on git and linkedin
 -
 - ⚡ Fun fact: I am serious
 
